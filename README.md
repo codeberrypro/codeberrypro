@@ -21,7 +21,7 @@
    
 ## Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codeberrypro&theme=dark&hide_border=)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightbot&theme=tokyonight" />
 
 
 ### Languages Used
