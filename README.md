@@ -15,7 +15,6 @@
  - Python Developer
  - Data Analyst
  - Data Engineer 
- - Natural Language Processing
    
 ## Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codeberrypro&theme=dark&hide_border=)](https://git.io/streak-stats)
