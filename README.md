@@ -1,7 +1,7 @@
 <h2 align="left"> Hi I'm Bohdan 👋 </h2>
 
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/codeberrypro)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-gorvat/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](www.linkedin.com/in/bohdan94bh)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:codeberry1994@gmail.com)
 
 - 🔭 I’m currently working like Python Developer 
