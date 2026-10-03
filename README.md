@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan94bh/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:codeberry1994@gmail.com)
 
-- 🔭 I’m currently working as a Python Backend Developer & Data Engineer — building APIs, data pipelines and scraping systems
+- 🔭 I’m currently working as a Python Backend Developer & Data Engineer building APIs, data pipelines and scraping systems
 - 🌱 I’m currently learning everything😄
 - ⚡ Learning and growing everyday
 
